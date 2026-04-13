@@ -2,6 +2,8 @@
 
 A high-performance and scalable URL shortening service built with Go, Gin, and MongoDB. This project provides RESTful APIs to create, manage, and track short URLs with analytics support.
 
+[Project assignment](https://roadmap.sh/projects/url-shortening-service)
+
 ---
 
 ## 🚀 Features
